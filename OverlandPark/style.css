@@ -1,0 +1,190 @@
+/* 
+Theme Name: Overland Park
+Theme URI: http://www.rljart.com/
+Description: a custom theme for rachel - handcrafted with love by travis
+Version: 1.0
+Author: travisj
+Author URI: http://eightfivethree.com
+*/
+
+body {
+	font-family: verdana;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #4f888e;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+#hd {
+	border:0;
+	padding: 0;
+	margin:0;
+	height: 149px;
+}
+#bd {
+	font-size: 85%;
+	line-height: 125%;
+	padding: 10px;
+}
+h1 {
+	font-size: 161.6%;
+}
+
+#left h2, #right h2 {
+	font-size: 123.1%;
+	border-bottom: 1px dashed #91d6db;
+	padding: 20px 5px 5px 5px;
+	margin-bottom: 5px;
+}
+
+#right h2 {
+	text-align: right;
+}
+
+#left p {
+	margin-left: 15px;
+	margin-right: 25px;
+	text-align: center;
+
+}
+
+#left select {
+	margin: 3px 0;
+}
+
+div.post {
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	line-height: 150%;
+	border-bottom: 1px dashed #91d6db;
+}
+
+div.post p {
+	margin: 10px 0;
+}
+
+div.post p.date {
+	color: #777;
+}
+
+div.post h2 {
+	font-family:georgia;
+	font-size: 189%;
+	margin-bottom: 10px;
+	text-decoration: none;
+}
+
+div.post h4 {
+	font-family:georgia;
+	font-size: 167%;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	color: #777;
+	text-decoration: none;
+}
+
+
+div.dottedline {
+	border-top: 1px dashed #91d6db;
+	padding: 10px;
+}
+
+div.dottedline2 {
+	border-top: 1px dashed #91d6db;
+	padding: 10px;
+	border-bottom: 1px dashed #91d6db;
+}
+
+div.indent {
+	margin-left: 25px;
+}
+
+div.post h2 a, div.post h2 a:visited {
+	color: #000;
+}
+
+div.post h2 a:hover {
+	color: #80b7bc;
+}
+
+div.post p.date {
+	margin: 5px 0;
+}
+
+div.post p.cat_and_comment {
+	margin-top: 5px;
+}
+
+div.post p.cat_and_comment .comment {
+	float: right;
+}
+
+div.post div.entry ul, div.post div.entry ol {
+	padding-left: 15px;
+}
+
+div.post div.entry ul li {
+	padding: 5px 0;
+	list-style-type: square;
+}
+
+div.post div.entry ol li {
+	padding: 5px 0;
+	list-style-type: decimal;
+}
+
+h3#comments {
+	font-size: 167%;
+	font-family:georgia;
+	border-bottom: 1px dashed #91d6db;
+	padding-bottom: 5px;
+	padding-top: 10px;
+}
+
+h3#respond {
+	margin-top: 20px;
+	font-size: 167%;
+	font-family:georgia;
+}
+
+ol.commentlist li {
+	padding: 20px 0;
+	border-bottom: 1px dashed #91d6db;
+}
+
+div.logos {
+	text-align: center;
+}
+
+div.logos img {
+	margin-bottom: 15px;
+}
+
+div.rightcenter {
+	margin-top: 5px;
+	padding-left: 50px;
+	margin-bottom: 10px;
+}
+
+.dashed_underline {
+	border-bottom: 1px dashed #91d6db;
+	margin-bottom: 15px;
+}
+
+#ft {
+	text-align: right;
+	font-size: 77%;
+}
+img.alignright {padding: 4px;margin: 0 0 2px 7px;display: inline;}
+img.alignleft {padding: 4px;margin: 0 7px 2px 0;display: inline;}
+.alignright {float: right;}
+.alignleft {float: left}
+.badge {border-bottom: 1px dashed #91d6db; padding-bottom: 15px; margin-bottom: 15px;}
+.fb_badge_custom {padding-left: 57px;}
+.thisnext {border-top: 1px dashed #91d6db;}
