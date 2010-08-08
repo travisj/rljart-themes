@@ -1,0 +1,3 @@
+[submodule "thematic"]
+	path = thematic
+	url = http://github.com/iridia/thematic.git
